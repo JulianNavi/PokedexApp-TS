@@ -1,0 +1,19 @@
+{
+  "name": "pokedexapp-ts",
+  "version": "1.0.0",
+  "description": "pokemondex simple api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianNavi/PokedexApp-TS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianNavi/PokedexApp-TS/issues"
+  },
+  "homepage": "https://github.com/JulianNavi/PokedexApp-TS#readme"
+}
